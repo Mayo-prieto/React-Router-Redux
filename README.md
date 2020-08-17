@@ -1,2 +1,2 @@
-# React-redix
-proyecto en desarrollo
+# React-Router-Redux
+Design made in React JS for a webpage to watch movies.
